@@ -1,0 +1,22 @@
+# Progresso local criado durante a execucao do jogo.
+missao_estoque/progress.json
+
+# Python / Pygame
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Ambiente e configuracoes locais
+.env
+.env.*
+.venv/
+venv/
+.vscode/
+
+# Renders e artefatos locais de revisao
+artifacts/
+
+# Builds reproduzíveis da demo
+build/
+dist/
+*.zip
