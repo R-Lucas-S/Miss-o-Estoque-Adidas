@@ -75,7 +75,3 @@ A demo informa que não envia telemetria nem dados pela internet. Progresso e co
 - Python
 - Pygame 2.6.1
 - PyInstaller para empacotamento da demo
-
-## Observação sobre o nome
-
-O nome do repositório inclui “Adidas”, e o jogo usa um cenário de loja esportiva. Este é um projeto independente; não afirme vínculo ou aprovação da marca sem autorização explícita.
